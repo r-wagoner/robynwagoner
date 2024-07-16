@@ -1,0 +1,43 @@
+.background {
+    background-color:black;
+}
+
+.divgrid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 50px;
+    row-gap: 16px;
+    margin-left: 30px;
+}
+
+
+.heading {
+    text-align: center;
+    color: lawngreen;
+    font-family: "Arial Black", sans-serif;
+    font-size: 46px;
+}
+
+.subhead {
+    text-align: center;
+    font-family: "Arial Rounded MT Bold", sans-serif;
+    font-size: 30px;
+    color: white;
+}
+
+.image {
+    margin-top: 30px;
+    border-color: white;
+    border-style: groove;
+    border-width: 4px;
+}
+
+.bodytext {
+    display:inline-block;
+    text-align: justify;
+    width:50%;
+    margin-left: 450px;
+    font-family: "Arial", sans-serif;
+    color: white;
+}
+
