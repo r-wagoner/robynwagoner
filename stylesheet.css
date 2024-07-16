@@ -34,10 +34,11 @@
 
 .bodytext {
     display:inline-block;
-    text-align: justify;
+    text-align:justify;
     width:50%;
-    margin-left: 450px;
-    font-family: "Arial", sans-serif;
+    margin-left:450px;
+    font-family:"Arial", sans-serif;
+    font-size:19px;
     color: white;
 }
 
